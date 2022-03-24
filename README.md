@@ -1,2 +1,2 @@
-# tribute-page
+# Tribute Page
 Tribute Page Freecodecamp challange
